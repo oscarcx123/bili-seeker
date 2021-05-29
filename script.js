@@ -1,7 +1,8 @@
 // ==UserScript==
 // @author      oscarcx123
-// @name        B站保存进度
+// @name        B站保存播放进度
 // @description 自动保存B站多集视频的进度（例如各类网课视频）
+// @namespace   https://github.com/oscarcx123
 // @language    zh-CN
 // @version     1
 // @icon        https://www.bilibili.com/favicon.ico
